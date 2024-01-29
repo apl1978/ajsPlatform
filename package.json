@@ -1,0 +1,19 @@
+{
+  "name": "@apl1978/ajsplatform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apl1978/ajsPlatform.git"
+  },
+  "author": "apl1978",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apl1978/ajsPlatform/issues"
+  },
+  "homepage": "https://github.com/apl1978/ajsPlatform#readme"
+}
